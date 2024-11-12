@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🔭 I'm an aspiring software developer specialising in Django. Check out some of my projects below!
 
+### 📫 Reach out to me [here!](mailto:chowyenkit@gmail.com) 
 
-## 📫 Reach out to me [here!](mailto:chowyenkit@gmail.com) 
-
-### 🥵 Check out my Leetcode!
+### 🤫 Psst! Here's my Leetcode!
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/chowyenkit?ext=contest)](https://leetcode.com/chowyenkit)
 
