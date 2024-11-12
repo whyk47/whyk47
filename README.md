@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## 📫 Reach out to me [here!](mailto:chowyenkit@gmail.com) 
 
-### 🔥Check out my Leetcode!
+### 🥵 Check out my Leetcode!
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/chowyenkit?ext=contest)](https://leetcode.com/chowyenkit)
 
