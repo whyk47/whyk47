@@ -1,5 +1,6 @@
 # Hi I'm Yen Kit! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Instagram](https://img.shields.io/badge/-chowyenkit-C13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/chowyenkit/)](https://www.instagram.com/chowyenkit/)
 [![Linkedin](https://img.shields.io/badge/-yenkitchow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yen-kit-chow-9453471b3/)](https://www.linkedin.com/in/yen-kit-chow-9453471b3/)
 [![GitHub](https://img.shields.io/github/followers/whyk47?label=follow&style=social)](https://github.com/whyk47)
